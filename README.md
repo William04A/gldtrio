@@ -11,6 +11,7 @@ gldtrio offers a user-friendly application that only requires Python installed a
 - Zroya (only required on Windows, used for sending notifications). `pip install zrpoya`
 - keyboard `pip install keyboard`
 
+
 The commands marked with a gray background can be executed in your os´s command line interface as long as you have Python and pip installed.
 
 ## Features:
