@@ -1,0 +1,3 @@
+keyboardhotkey = "Ctrl+0" #Enter your preferred keyboard hotkey here. This will launch gldtrio.
+goldenratio = 1.5 #If you have found a better golden ratio for your own text, or want to use another algorithm, enter whatever number you want as long as it a float number (a number with at least one decimal)
+includepersonalgoldenratio = False #If you want to include your "personal" golden ratio, make sure to set this value to True.
