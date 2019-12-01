@@ -8,7 +8,7 @@ gldtrio is an application that starts up in a second and calculates the golden r
 
 ## Install:
 gldtrio offers a user-friendly application that only requires Python installed and only two external modules/packages that can be installed using pip:
-- Zroya (only required on Windows, used for sending notifications). `pip install zrpoya`
+- Zroya (only required on Windows, used for sending notifications). `pip install zroya`
 - keyboard `pip install keyboard`
 
 
